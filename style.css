@@ -1,0 +1,95 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: rgb(66, 46, 82);
+    background-image: url(images/z0fc5qn4jjl41.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+header {
+    height: 120px;
+    width: 960px;
+    text-align: center;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.39);
+    width: 960px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+main {
+    width: 960px;
+    text-align: center;
+    padding-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.705);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+}
+
+h1 {
+    font-size: 70px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+p {
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+a {
+    color: white;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+footer p {
+    font-size: 10px;
+    text-align: center;
+
+}
+
+.Sheoldred {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 80%;
+}
+
+.eldlich {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 50%;
+}
+
+.aboutText {
+    font-size: 32px;
+    color: white;   
+}
